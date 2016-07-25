@@ -52,19 +52,18 @@ This README would normally document whatever steps are necessary to get your app
                           Method for sgrna-level p-value adjustment, including
                           false discovery rate (fdr), holm's method (holm), or
                           pounds's method (pounds).
-    -o, --outliers_removal
-                          Specify whether you want to remove outliers and
-                          recalculate..
     --norm-method {none,median,total,control}
                           Method for normalization, including "none"
                           (nonormalization), "median" (median normalization,
                           default), "total" (normalization by total read
                           counts), "control" (normalization by control sgRNAs
                           specified by the --control-sgrna option).
-    -p, --PPI_prior       Specify whether you want to incorporate PPI as prior
     -e NEGATIVE_CONTROL, --negative_control NEGATIVE_CONTROL
-                          The gene name of negative controls. The corresponding
-                          sgRNA will be viewed independently.
+                          The gene name of negative controls. 
+    -p, --PPI_prior       Specify whether you want to incorporate PPI as prior
+    -o, --outliers_removal
+                          Specify whether you want to remove outliers and
+                          recalculate.
     -k COUNT_TABLE, --count_table COUNT_TABLE
                           Provide a tab-separated count table. Each line in the
                           table should include sgRNA name (1st column), target
