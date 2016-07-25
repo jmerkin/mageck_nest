@@ -19,14 +19,6 @@ This README would normally document whatever steps are necessary to get your app
     6. Change directory to where the test file is stored.
     7. Example command: 
 
-python /YOUR CODES DIRECTORY/mageck_nest/mageck_nest-1.0/mageck_nest/mageck_nest.py nest -n mageck_nest_LNCaP_veh -i LNCaP_6K_day0,LNCaP_6K_veh --norm-method control -e negative_control -k LNCap_6K_GSK_screening.txt -d “1,0;1,1"
-
-    with outliers removal: add “-o”
-    with PPI: add “-p”
-
-python /YOUR CODES DIRECTORY/mageck_nest/mageck_nest-1.0/mageck_nest/mageck_nest.py nest -n mageck_nest_LNCaP_veh -i LNCaP_6K_day0,LNCaP_6K_veh -o -p --norm-method control -e negative_control -k LNCap_6K_GSK_screening.txt -d “1,0;1,1”
-
-
 ### Usage ###
 
     usage: mageck_nest.py nest [-h] [-n OUTPUT_PREFIX]
@@ -84,5 +76,7 @@ python /YOUR CODES DIRECTORY/mageck_nest/mageck_nest-1.0/mageck_nest/mageck_nest
                           order of the samples in the count table (if --include-
                           samples is not specified), or the order of the samples
                           by the --include-samples option.
+
+### Test data ###
 
 ### Result interpretation ###
