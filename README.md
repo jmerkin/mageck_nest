@@ -9,7 +9,7 @@ This README would normally document whatever steps are necessary to get your app
 * [Learn Markdown](https://bitbucket.org/tutorials/markdowndemo)
 
 ### Set Up ###
-
+    Now this algorithm only supports python2. The new version for python3 will be updated soon.
     1. Open terminal and change to “YOUR CODES DIRECTORY"
     2. Type "git clone https://chenhaochen@bitbucket.org/liulab/mageck_nest.git”
     3. Change directory to “YOUR CODES DIRECTORY/mageck_nest"
@@ -17,8 +17,7 @@ This README would normally document whatever steps are necessary to get your app
     5. Now the codes should be in “YOUR CODES DIRECTORY/mageck_nest/mageck_nest-1.0/mageck_nest/“
 
     6. Change directory to where the test file is stored.
-    7. Example command: 
-
+  
 ### Usage ###
 
     usage: mageck_nest.py nest [-h] [-n OUTPUT_PREFIX]
