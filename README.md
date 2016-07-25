@@ -75,10 +75,8 @@ This README would normally document whatever steps are necessary to get your app
                           samples is not specified), or the order of the samples
                           by the --include-samples option.
 
-### Test data ###
-1. Data generated:
+### Result interpretation ###
 * gene_summary.txt
 * sgrna_summary.txt
 * QQplot of wald p value: QQ plot of wald p values against uniform distribution
 * Hist of beta value: Histogram of beta values for all genes
-### Result interpretation ###
