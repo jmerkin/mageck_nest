@@ -15,7 +15,6 @@ This README would normally document whatever steps are necessary to get your app
     3. Change directory to “YOUR CODES DIRECTORY/mageck_nest"
     4. Type “tar -xvzf mageck_nest-1.0.tar.gz”
     5. Now the codes should be in “YOUR CODES DIRECTORY/mageck_nest/mageck_nest-1.0/mageck_nest/“
-
     6. Change directory to where the test file is stored.
   
 ### Usage ###
@@ -76,9 +75,9 @@ This README would normally document whatever steps are necessary to get your app
                           by the --include-samples option.
 
 ### Result interpretation ###
-1. gene_summary.txt:
-      gene|sgRNA|beta|z|wald-p-value|wald-fdr
-      gene_name|number of sgRNAs included|p-value calculated using Wald test|FDR
-2. sgrna_summary.txt
-3. QQplot of wald p value: QQ plot of wald p values against uniform distribution
-4. Hist of beta value: Histogram of beta values for all genes
+    1. gene_summary.txt:
+    gene|sgRNA|beta|z|wald-p-value|wald-fdr
+    gene_name|number of sgRNAs included|p-value calculated using Wald test|FDR
+    2. sgrna_summary.txt
+    3. QQplot of wald p value: QQ plot of wald p values against uniform distribution
+    4. Hist of beta value: Histogram of beta values for all genes
