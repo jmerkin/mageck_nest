@@ -76,8 +76,13 @@ This README would normally document whatever steps are necessary to get your app
 
 ### Result interpretation ###
     1. gene_summary.txt:
+ 
     gene|sgRNA|beta|z|wald-p-value|wald-fdr
     gene_name|number of sgRNAs included|p-value calculated using Wald test|FDR
+
     2. sgrna_summary.txt
+
+
+
     3. QQplot of wald p value: QQ plot of wald p values against uniform distribution
     4. Hist of beta value: Histogram of beta values for all genes
