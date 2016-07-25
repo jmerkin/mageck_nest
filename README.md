@@ -29,13 +29,13 @@ python /YOUR CODES DIRECTORY/mageck_nest/mageck_nest-1.0/mageck_nest/mageck_nest
 
 ### Usage ###
 
-usage: mageck_nest.py nest [-h] [-n OUTPUT_PREFIX]
-                           [--genes-varmodeling GENES_VARMODELING]
-                           [-i INCLUDE_SAMPLES] [-b BETA_LABELS]
-                           [--adjust-method {fdr,holm,pounds}] [-o]
-                           [--norm-method {none,median,total,control}] [-p]
-                           [-e NEGATIVE_CONTROL] -k COUNT_TABLE -d
-                           DESIGN_MATRIX
+* usage: mageck_nest.py nest [-h] [-n OUTPUT_PREFIX]
+*                            [--genes-varmodeling GENES_VARMODELING]
+*                            [-i INCLUDE_SAMPLES] [-b BETA_LABELS]
+*                            [--adjust-method {fdr,holm,pounds}] [-o]
+*                            [--norm-method {none,median,total,control}] [-p]
+*                            [-e NEGATIVE_CONTROL] -k COUNT_TABLE -d
+*                            DESIGN_MATRIX
 
 optional arguments:
   -h, --help            show this help message and exit
