@@ -81,7 +81,8 @@ This README would normally document whatever steps are necessary to get your app
     gene_name | number of sgRNAs included | beta value | z-score | p-value using Wald test | FDR
 
     2. sgrna_summary.txt
-
+    gene      | sgRNA      | eff        | mu       | K          | likelihood
+    gene_name | sgRNA_name | efficiency | mu_value | read count | likelihood
 
 
     3. QQplot of wald p value: QQ plot of wald p values against uniform distribution
