@@ -86,3 +86,6 @@ This README would normally document whatever steps are necessary to get your app
 
     3. QQplot of wald p value: QQ plot of wald p values against uniform distribution
     4. Hist of beta value: Histogram of beta values for all genes
+    5. mu_k_PPI_diagnosis.txt:
+    Example:
+    
