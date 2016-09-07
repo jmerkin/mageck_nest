@@ -18,12 +18,12 @@ Integrative CRISPR analysis using MAGeCK-NEST
 > DESIGN_MATRIX
 
 # optional arguments #
-  -h, --help            show this help message and exit
-  -n OUTPUT_PREFIX, --output-prefix OUTPUT_PREFIX
-                        The prefix of the output file(s).
-  --genes-varmodeling GENES_VARMODELING
-                        The number of genes for mean-variance modeling.
-                        Default all.
+>-h, --help            show this help message and exit     
+>-n OUTPUT_PREFIX, --output-prefix OUTPUT_PREFIX   
+>                       The prefix of the output file(s).  
+> --genes-varmodeling GENES_VARMODELING  
+>                       The number of genes for mean-variance modeling.  
+>                       Default all.  
   -i INCLUDE_SAMPLES, --include-samples INCLUDE_SAMPLES
                         Specify the sample labels if the design matrix is not
                         given by file in the --design-matrix option. Sample
