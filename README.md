@@ -63,3 +63,6 @@ optional arguments:
                         samples is not specified), or the order of the samples
                         by the --include-samples option.
 ```
+# Outputs #
+* gene_summary.txt
+* sgrna_summary.txt
