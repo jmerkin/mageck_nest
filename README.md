@@ -6,6 +6,9 @@ Model-based Analysis of Genome-wide CRISPR-Cas9 Knockout (MAGeCK_NEST) is a comp
 * Histogram of beta scores (modified log fold changes)
 * QQ-plot of p-values
 
+# Prerequisites #
+The input of the MAGeCK-NEST workflow are read count files. 
+
 # Installation #
  
 
