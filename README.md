@@ -1,7 +1,7 @@
 Integrative CRISPR analysis using MAGeCK-NEST
 ====================================================================================
 
-# USAGE #
+# Usage #
 
 ```
 mageck_nest.py nest [-h] [-n OUTPUT_PREFIX]  
@@ -83,4 +83,5 @@ optional arguments:
  loglikelihood  
 ```
 * Hist of beta value
+
 * QQplot of wald_p value
