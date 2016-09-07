@@ -65,11 +65,11 @@ optional arguments:
 ```
 # Outputs #
 * gene_summary.txt
-**Gene	
-**sgRNA	
-**beta_1|beta	
-**beta_1|z	
-**beta_1|wald-p-value	
-**beta_1|wald-fdr
+**Gene: gene name
+**sgRNA: number of targeting sgRNA 
+**beta_1|beta: beta score 
+**beta_1|z: z-statistic of beta score
+**beta_1|wald-p-value: p-value
+**beta_1|wald-fdr: false discovery rate
 
 * sgrna_summary.txt
