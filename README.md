@@ -65,11 +65,22 @@ optional arguments:
 ```
 # Outputs #
 * gene_summary.txt
-**Gene: gene name
-**sgRNA: number of targeting sgRNA 
-**beta_1|beta: beta score 
-**beta_1|z: z-statistic of beta score
-**beta_1|wald-p-value: p-value
-**beta_1|wald-fdr: false discovery rate
-
+```
+ Gene: gene name
+ sgRNA: number of targeting sgRNA 
+ beta_1|beta: beta score 
+ beta_1|z: z-statistic of beta score
+ beta_1|wald-p-value: p-value
+ beta_1|wald-fdr: false discovery rate
+```
 * sgrna_summary.txt
+```
+ Gene: gene name	
+ sgRNA: sgrna name	
+ eff: whether or not the sgRNA is included in calculation. 1: included; 0: not included	
+ mu: mean	
+ k: read count  
+ loglikelihood  
+```
+* Hist of beta value
+* QQplot of wald_p value
