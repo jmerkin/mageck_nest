@@ -65,4 +65,11 @@ optional arguments:
 ```
 # Outputs #
 * gene_summary.txt
+**Gene	
+**sgRNA	
+**beta_1|beta	
+**beta_1|z	
+**beta_1|wald-p-value	
+**beta_1|wald-fdr
+
 * sgrna_summary.txt
