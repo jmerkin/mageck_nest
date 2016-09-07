@@ -82,6 +82,6 @@ optional arguments:
  k: read count  
  loglikelihood  
 ```
-* Hist of beta value
-
+* [Hist of beta value]
+[Hist of beta value]:https://bitbucket.org/liulab/mageck_nest/downloads/QQplot%20of%20wald_p%20value%20demo.pdf
 * QQplot of wald_p value
