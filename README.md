@@ -7,8 +7,13 @@ Model-based Analysis of Genome-wide CRISPR-Cas9 Knockout (MAGeCK_NEST) is a comp
 * QQ-plot of p-values
 
 # Prerequisites #
-The input of the MAGeCK-NEST workflow are read count files. 
-
+The input of the MAGeCK-NEST workflow are read count files. The formats are sgRNA, gene, readcounts
+Ex: 
+```
+sgRNA         gene     sample1_readcount     sample2_readcount...
+gene1_gRNA_1  gene1    557                   421
+gene1_gRNA_2  gene1    295                   128
+```
 # Installation #
  
 
