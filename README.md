@@ -13,6 +13,8 @@ Ex:
 sgRNA         gene     sample1_readcount     sample2_readcount...
 gene1_gRNA_1  gene1    557                   421
 gene1_gRNA_2  gene1    295                   128
+gene2_gRNA_1  gene2    173                   68
+gene2_gRNA_2  gene2    85                    38
 ```
 # Installation #
  
