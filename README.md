@@ -6,6 +6,7 @@ Model-based Analysis of Genome-wide CRISPR-Cas9 Knockout (MAGeCK_NEST) is a comp
 * Protein-protein interaction information integration.
 * Histogram of beta scores (modified log fold changes)
 * QQ-plot of p-values
+* Gene set enrichment analysis (GSEA) using positive control genes as quality control
 ```
 
 # Prerequisites #
