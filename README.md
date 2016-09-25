@@ -114,3 +114,4 @@ optional arguments:
 [Hist of beta value]:https://bitbucket.org/liulab/mageck_nest/downloads/Hist%20of%20beta%20value%20demo.pdf
 * [QQplot of wald_p value]: The distribution of p value against uniform distribution
 [QQplot of wald_p value]:https://bitbucket.org/liulab/mageck_nest/downloads/QQplot%20of%20wald_p%20value%20demo.pdf
+*[GSEA to quantify how positive control genes ranked in called hits]:https://bitbucket.org/liulab/mageck_nest/downloads/mageck_nest_Jiyoye_PPI_major_outliers_removal_major.gene_summary_beta_1_gsea.png
